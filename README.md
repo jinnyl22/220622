@@ -20,3 +20,5 @@ int num = 0;
 1 | 2 | 3
 ---| --- | ---
 제목 | 이름 | 날짜
+
+![Be Pretty](https://user-images.githubusercontent.com/107898608/174937440-fc9f17ef-5d27-4abb-bc12-9c38b236229c.jpeg)
